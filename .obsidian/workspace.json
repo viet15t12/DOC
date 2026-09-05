@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chào mừng.md",
-                "mode": "source",
+                "file": "LINUX_COMMAND_LINE/01_PART_I_LEARNING_THE_SHELL/01_What_Is_the_Shell.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chào mừng"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3c88196cf96ece6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "182f89ff39d0f2ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Xem biểu đồ"
+              "title": "01_What_Is_the_Shell"
             }
           }
         ]
@@ -99,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "086f527992fbc2f9",
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chào mừng.md",
+                "file": "LINUX_COMMAND_LINE/01_PART_I_LEARNING_THE_SHELL/01_What_Is_the_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chào mừng.md",
+                "file": "LINUX_COMMAND_LINE/01_PART_I_LEARNING_THE_SHELL/01_What_Is_the_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chào mừng.md",
+                "file": "LINUX_COMMAND_LINE/01_PART_I_LEARNING_THE_SHELL/01_What_Is_the_Shell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,9 +200,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "629d4bf92b66cb40",
+  "active": "a8bfddaf9309962e",
   "lastOpenFiles": [
-    "README.md",
-    "Chào mừng.md"
+    "LINUX_COMMAND_LINE/index.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/index.md",
+    "index.md",
+    "CCNA/index.md",
+    "Chào mừng.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/36_Exotica.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/35_Arrays.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/34_Strings_and_Numbers.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/33_Flow_Control_Looping_with_for.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/32_Positional_Parameters.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/31_Flow_Control_Branching_with_case.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/30_Troubleshooting.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/29_Flow_Control_Looping_with_while_until.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/28_Reading_Keyboard_Input.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/27_Flow_Control_Branching_with_if.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/26_Top_Down_Design.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/25_Starting_a_Project.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS/24_Writing_Your_First_Script.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/index.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/23_Compiling_Programs.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/22_Printing.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/21_Formatting_Output.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/20_Text_Processing.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/19_Regular_Expressions.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/18_Archiving_and_Backup.md",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS/17_Searching_for_Files.md",
+    "LINUX_COMMAND_LINE/04_PART_IV_WRITING_SHELL_SCRIPTS",
+    "LINUX_COMMAND_LINE/03_PART_III_COMMON_TASKS_AND_ESSENTIAL_TOOLS",
+    "LINUX_COMMAND_LINE/02_PART_II_CONFIGURATION_AND_THE_ENVIRONMENT",
+    "LINUX_COMMAND_LINE/01_PART_I_LEARNING_THE_SHELL",
+    "LINUX_COMMAND_LINE/00_FRONT_MATTER",
+    "LINUX_COMMAND_LINE",
+    "GOLANG",
+    "CCNA"
   ]
 }
